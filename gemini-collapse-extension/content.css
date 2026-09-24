@@ -1,0 +1,30 @@
+/* Stile del pulsante tondo e minimale */
+.collapse-btn {
+  background-color: #f0f4f9;
+  color: #1f1f1f;
+  border: 1px solid #c4c7c5;
+  border-radius: 50%; /* Rende il pulsante un cerchio perfetto */
+  width: 28px;        /* Larghezza fissa */
+  height: 28px;       /* Altezza fissa uguale alla larghezza */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  cursor: pointer;
+  margin-bottom: 8px;
+  padding: 0;         /* Rimuove i margini interni per centrare l'emoji */
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.collapse-btn:hover {
+  background-color: #e3e3e3;
+}
+
+.collapse-btn:active {
+  transform: scale(0.95); /* Piccolo effetto pressione al click */
+}
+
+/* Classe applicata alla risposta per nasconderla */
+.hidden-response-content {
+  display: none !important;
+}
