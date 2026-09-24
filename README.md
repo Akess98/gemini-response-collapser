@@ -28,3 +28,6 @@ Now, open [Gemini](https://google.com) and start a chat to see the toggle button
 
 ## 📄 License
 This project is open-source and available under the **MIT License**. Feel free to use, modify, and distribute it as you like.
+
+## Support the project <3
+[![Ko-fi](https://img.shields.io/badge/Suppo_me_on-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alessiovragnaz)
